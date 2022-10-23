@@ -1,5 +1,5 @@
 # MakeDecision
-
+MakeDecision is an app able to make decision for you. In this case this app help to choose anime to watch
 
 CREATE  DOCKER CONTAINER 
 
